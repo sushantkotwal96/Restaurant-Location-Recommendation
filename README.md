@@ -1,2 +1,2 @@
-# Applied-Data-Science-Capstone
-This repository is used for the Applied Data Science Capstone course
+# Restaurant Location Recommendation/Analysis
+This repository is used for the Restaurant Location Recommendation/Analysis project
